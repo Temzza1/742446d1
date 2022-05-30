@@ -1,0 +1,33 @@
+
+/* Class = "UILabel"; text = "humidityValue"; ObjectID = "1EG-L5-0a1"; */
+"1EG-L5-0a1.text" = "humidityValue";
+
+/* Class = "UILabel"; text = "windValue"; ObjectID = "2Hk-uh-e1z"; */
+"2Hk-uh-e1z.text" = "windValue";
+
+/* Class = "UILabel"; text = "feelsLikeValue"; ObjectID = "2Wu-HB-VRQ"; */
+"2Wu-HB-VRQ.text" = "feelsLikeValue";
+
+/* Class = "UILabel"; text = "Next 7 Days"; ObjectID = "CwU-ed-wCg"; */
+"CwU-ed-wCg.text" = "Next 7 Days";
+
+/* Class = "UILabel"; text = "pressureValue"; ObjectID = "Dbz-Rg-0yq"; */
+"Dbz-Rg-0yq.text" = "pressureValue";
+
+/* Class = "UILabel"; text = "City name"; ObjectID = "Wf1-2u-Nhe"; */
+"Wf1-2u-Nhe.text" = "City name";
+
+/* Class = "UILabel"; text = "0°"; ObjectID = "YWd-NX-gJF"; */
+"YWd-NX-gJF.text" = "0°";
+
+/* Class = "UIViewController"; title = "SecondViewController"; ObjectID = "Zv1-og-Xyh"; */
+"Zv1-og-Xyh.title" = "SecondViewController";
+
+/* Class = "UILabel"; text = "Seattle, USA"; ObjectID = "Zyj-sM-2qd"; */
+"Zyj-sM-2qd.text" = "Seattle, USA";
+
+/* Class = "UILabel"; text = "sdsdvsvsdvsdvsdv"; ObjectID = "bZz-uF-UEO"; */
+"bZz-uF-UEO.text" = "sdsdvsvsdvsdvsdv";
+
+/* Class = "UILabel"; text = "32 / 22"; ObjectID = "yLQ-N7-ruI"; */
+"yLQ-N7-ruI.text" = "32 / 22";
